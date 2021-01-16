@@ -1,1 +1,1 @@
-# python_bevez_oktatas
+# Python bevezető oktatás
